@@ -21,7 +21,7 @@ public class HelloWorld {
 
 		HelloUser helloUser = new HelloUser(name);
 
-		helloUser.greetUser();
+		helloUser.greetUser2();
 	}
 
 }

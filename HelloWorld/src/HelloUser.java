@@ -8,7 +8,7 @@ public class HelloUser {
         this.username = username;
     }
 
-    public void greetUser() {
+    public void greetUser2() {
         StringBuilder stringBuilder = new StringBuilder("Hello ");
         stringBuilder.append(getUsername());
         stringBuilder.append("!");
